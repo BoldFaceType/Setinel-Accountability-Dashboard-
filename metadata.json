@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel Accountability Dashboard",
+  "description": "An AI-monitored dashboard for tracking career sprints and tactical plans. Features an exposed MCP-compatible interface for programmatic verification and updates.",
+  "requestFramePermissions": []
+}
